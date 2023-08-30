@@ -1,2 +1,2 @@
 # covid-19-dashboard
- End-to-end Dashboard highlighting the spread of COVID-19 and its death rate
+ End-to-end data dashboard analyzing the spread of Covid-19 and its casualties
