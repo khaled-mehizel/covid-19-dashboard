@@ -26,5 +26,33 @@ Used Microsoft Excel to do the following:
   - Exported the Worksheet as a .csv file
   - Used CSV Lint to convert the .csv file into a .sql script that will import the data from it
   
-# Querying the dataset and exploratory analysis
-# Visualizing the data
+# Querying the dataset and exploratory analysis using MySQL Workbench
+
+1. Extracting the global infection and death rates:
+    
+  Self Explanatory, Queried the necessary columns and made a running total for the cases, deaths, and the percentage of each
+
+2. Queried the country's population density and infection rate, to see how much of a factor it is in the spread. Ended up not using this data.
+
+3. Extracting each country's case number and HDI in an attempt to gauge that country's healthcare and see if it were a factor in survivability. Ended up not using this data.
+
+4. Total cases, deaths, and percentages for each country.
+5. Total cases, deaths, and percentages for each continent.
+
+
+
+# Visualizing the data using Power BI
+- Started first thing with 2 slicers, one for time and the other for location.
+- Added 3 cards:
+  - One that shows total cases for selected time and space frames.
+  - One that shows total deaths for selected time and space frames.
+  - One that shows average death percentage for selected time and space frames.
+- Added a table that shows continents, countries, populations, total cases, total deaths.
+- Add a bar line chart that shows total cases for each continent, and total deaths on the secondary Y-axis.
+- Added two area charts showing the developement of case and death numbers for the selected time and space frame.
+- Showed a world map that shows which countries have the largest numbers of cases.
+
+# RECAP
+My first project. Not entirely happy with it, there's always room to improve, but it gets the job done more or less, every visual responds to slicers, and one can extract insights from it. It's only uphill from here!
+
+
