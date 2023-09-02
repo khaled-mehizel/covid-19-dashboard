@@ -37,6 +37,7 @@ Used Microsoft Excel to do the following:
 3. Extracting each country's case number and HDI in an attempt to gauge that country's healthcare and see if it were a factor in survivability. Ended up not using this data.
 
 4. Total cases, deaths, and percentages for each country.
+  
 5. Total cases, deaths, and percentages for each continent.
 
 
@@ -52,6 +53,12 @@ Used Microsoft Excel to do the following:
 - Added two area charts showing the developement of case and death numbers for the selected time and space frame.
 - Showed a world map that shows which countries have the largest numbers of cases.
 
+# Insights
+- The USA rules supreme when it comes to the number of active and has been throughout most of the period of study. This may be due to a myriad of reasons, such as the slow response of the government, the American peoples' initial lack of cooperation with lockdown procedures, and the May 2020 BLM riots.
+- India is second place when it comes to the cases, this is most likely due to the massive population density, and the poor hygiene the populace has access to.
+- The USA also suffers the highest count of deaths, which isn't surprising since it leads the case count by a massive number over India. It can be assumed that hospitals were overwhelmed, but that applies to most countries
+- The number of cases continues to rise and shows no signs of slowing down. But my friend from the future paid me a visit and told me that by 2023, COVID will be nothing but a memory.
+- 
 # RECAP
 My first project. Not entirely happy with it, there's always room to improve, but it gets the job done more or less, every visual responds to slicers, and one can extract insights from it. It's only uphill from here!
 
