@@ -1,10 +1,10 @@
 # Overview
  End-to-end data dashboard analyzing the spread of COVID-19 and its casualties.
- It's not very beautiful but it's built with simplicity in mind so everyone can use it.
+ It's not very beautiful, but it's built with simplicity in mind, so everyone can use it.
 
  Timeframe of the study: 2020-01 to 2021-05
  
- This is my first project and it is mostly unguided, it has significance because my father died indirectly to COVID-19. His cardiovascular condition was exacerbated by Hydroxychloroquin, a malaria medicine that was administered to covid victims in third world countries.
+ This is my first project, and it is mostly unguided, it has significance because my father died indirectly to COVID-19. His cardiovascular condition was exacerbated by Hydroxychloroquin, a malaria medicine that was administered to covid victims in Third World countries.
 
  I originally intended to also compare countries' HDI to the percentage of people dying to COVID, as a way to gauge the effectiveness of their hospital
  As well as comparing new case rate with population density. These ideas never saw the light of day unfortunately, I settled for the dashboard only.
@@ -50,7 +50,7 @@ Used Microsoft Excel to do the following:
   - One that shows average death percentage for selected time and space frames.
 - Added a table that shows continents, countries, populations, total cases, total deaths.
 - Add a bar line chart that shows total cases for each continent, and total deaths on the secondary Y-axis.
-- Added two area charts showing the developement of case and death numbers for the selected time and space frame.
+- Added two area charts showing the development of case and death numbers for the selected time and space frame.
 - Showed a world map that shows which countries have the largest numbers of cases.
 
 # Insights
